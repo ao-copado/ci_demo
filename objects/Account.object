@@ -165,16 +165,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>External_ID__c</fullName>
-        <externalId>true</externalId>
-        <label>External ID</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Fax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -319,18 +309,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>Main_Contact__c</fullName>
-        <deleteConstraint>Restrict</deleteConstraint>
-        <externalId>false</externalId>
-        <label>Main Contact</label>
-        <referenceTo>Contact</referenceTo>
-        <relationshipLabel>Accounts</relationshipLabel>
-        <relationshipName>Accounts</relationshipName>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Lookup</type>
-    </fields>
-    <fields>
         <fullName>NaicsCode</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -410,29 +388,6 @@
                 <fullName>Cold</fullName>
                 <default>false</default>
             </picklistValues>
-            <sorted>false</sorted>
-        </picklist>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Picklist</type>
-    </fields>
-    <fields>
-        <fullName>Region__c</fullName>
-        <externalId>false</externalId>
-        <label>Region</label>
-        <picklist>
-            <picklistValues>
-                <fullName>EMEA</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>APAC</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Americas</fullName>
-                <default>false</default>
-            </picklistValues>
-            <restrictedPicklist>true</restrictedPicklist>
             <sorted>false</sorted>
         </picklist>
         <trackFeedHistory>false</trackFeedHistory>
