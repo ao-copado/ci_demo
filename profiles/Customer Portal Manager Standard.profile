@@ -1728,6 +1728,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ShowCompanyNameAsUserBadge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
 </Profile>
