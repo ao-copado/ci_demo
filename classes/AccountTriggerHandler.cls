@@ -6,6 +6,8 @@ public class AccountTriggerHandler {
     public static void setDefaultRegion (List<Account> Lacc) {
         
         for (Account acc: Lacc) {
+            
+            // New comment 
         	
             if (acc.Region__c == null || acc.Region__c == '') {
                 acc.Region__c = 'EMEA';
