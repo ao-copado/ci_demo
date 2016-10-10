@@ -6,11 +6,6 @@
     <name>AppMenu</name>
   </types>
   <types>
-    <members>Case.Standard</members>
-    <members>Lead.Standard</members>
-    <name>AssignmentRule</name>
-  </types>
-  <types>
     <members>Case</members>
     <members>Lead</members>
     <name>AssignmentRules</name>
@@ -1325,10 +1320,6 @@
     <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
     <members>unfiled$public/SupportSelfServiceResetPassword</members>
     <name>EmailTemplate</name>
-  </types>
-  <types>
-    <members>Case.Standard</members>
-    <name>EscalationRule</name>
   </types>
   <types>
     <members>Case</members>
