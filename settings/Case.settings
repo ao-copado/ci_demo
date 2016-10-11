@@ -9,9 +9,9 @@
         <feedItemType>EmailMessageEvent</feedItemType>
     </caseFeedItemSettings>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
-    <defaultCaseOwner>ao@copa.do.devone</defaultCaseOwner>
+    <defaultCaseOwner>ao@copa.do.devtwo</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>ao@copa.do.devone</defaultCaseUser>
+    <defaultCaseUser>ao@copa.do.devtwo</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>

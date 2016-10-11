@@ -35,6 +35,7 @@
   </types>
   <types>
     <members>Copado_Support</members>
+    <members>UAT_Service_Console</members>
     <members>standard__AppLauncher</members>
     <members>standard__Chatter</members>
     <members>standard__Community</members>
@@ -63,7 +64,6 @@
     <members>Account.DandbCompanyId</members>
     <members>Account.Description</members>
     <members>Account.DunsNumber</members>
-    <members>Account.External_ID__c</members>
     <members>Account.Fax</members>
     <members>Account.Id</members>
     <members>Account.Industry</members>
@@ -75,7 +75,6 @@
     <members>Account.LastModifiedDate</members>
     <members>Account.LastReferencedDate</members>
     <members>Account.LastViewedDate</members>
-    <members>Account.Main_Contact__c</members>
     <members>Account.MasterRecordId</members>
     <members>Account.NaicsCode</members>
     <members>Account.NaicsDesc</members>
@@ -1730,10 +1729,6 @@
     <members>Search</members>
     <members>Security</members>
     <name>Settings</name>
-  </types>
-  <types>
-    <members>Account.Account_OSR</members>
-    <name>SharingOwnerRule</name>
   </types>
   <types>
     <members>Account</members>
